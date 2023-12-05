@@ -115,7 +115,7 @@ const Contact = () => {
           Phạm Thế Sang
           <br />
           Hóc Môn, <br />
-          TP.Ho Chi Minh, <br />
+          TP.Hồ Chí Minh, <br />
           Việt Nam
           <br />
         </div>
